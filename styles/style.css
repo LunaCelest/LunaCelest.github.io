@@ -1,0 +1,35 @@
+html {
+  background-color: #00539f;
+}
+
+p,
+li {
+  font-size: 20px;
+  line-height: 1;
+  letter-spacing: 1px;
+  width: 40;
+}
+
+/*commentaire */
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ff9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  font-size: 40px;
+  padding: 20px 0;
+  color: #0067C1;
+  text-shadow: 3px 3px 4px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  background-color: #ff9500;
+}
